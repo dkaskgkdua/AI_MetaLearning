@@ -6,10 +6,10 @@
                  name="Help Instance"
                  start-page="Contrastive-Learning.md">
 
-    <toc-element topic="Bayesian-관점에서-메타러닝-접근.md"/>
     <toc-element topic="Intro.md"/>
     <toc-element topic="Contrastive-Learning.md"/>
     <toc-element topic="Reconstruction.md"/>
     <toc-element topic="Task-Construction.md"/>
     <toc-element topic="Large-Scale-Meta-Optimization.md"/>
+    <toc-element topic="Bayesian-관점에서-메타러닝-접근.md"/>
 </instance-profile>
